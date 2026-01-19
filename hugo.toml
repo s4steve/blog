@@ -1,0 +1,4 @@
+baseURL = 'https://blog.stevewhittle.net/'
+languageCode = 'en-us'
+title = 'Steve Whittle Blog'
+theme = 'PaperMod'
